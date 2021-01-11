@@ -40,10 +40,10 @@ This course surveys American fiction since the 1980s, attending to key issues an
 
 You'll have the opportunity to: 
 
-1. Read and analyze contemporary American fiction (1980s to the present) by attending to six dimensions of literature: narrative, power, language, history, aesthetics, and reception.   
+1. Read and analyze contemporary American fiction (1980s to the present) by attending to six dimensions of literature: narrative, power, language, history, aesthetics, and reception. 
 2. Identify key passages, terms, and themes from a selection of contemporary American novels.
 3. Communicate the cultural, social, and literary significance of contemporary American fiction, with an emphasis on issues of home, family, and kinship.
-4. Demonstrate an awareness of the techniques critics use to interpret contemporary American fiction, including close reading, contextualization, deconstruction, and evidence-based inquiry.  
+4. Demonstrate an awareness of the techniques critics use to interpret contemporary American fiction, including close reading, contextualization, deconstruction, and evidence-based inquiry.
 
 # About Us 
 
@@ -340,7 +340,7 @@ Here are the four prompts for this course. Please note that Prompts A, B, C each
 
 ### Prompt A 
 
-*Analysis*: This prompt emphasizes close reading, without much (if any) need to read beyond the novel you've selected as the primary source. For it, you have three options: narrative, power, and language. Please choose one. 
+*Analysis*: This prompt emphasizes close reading, without much (if any) need to read beyond the novel you've selected as your primary source. For it, you have three options: narrative, power, and language. Please choose one. 
 
 Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response. 
 
@@ -353,16 +353,17 @@ What is significant about the novel's narrative?
 Write an academic argument in 750-1000 words (MLA format) about how the narrative of a novel in this course is constructed and why its construction is compelling or unique. As you write, consider describing the general characteristics of the novel (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
 
 Here are some questions to help you get started: 
+
 * What is the form of the novel? How are pieces of the story stitched together?
 * How is time structured? Is it chronological? Non-linear? 
 * How does the novel flash back or flash forward?
-* How is it focalized? Who presents the story? What do they remember, know, ignore, or forget? How do they travel from place to place or moment to moment? 
+* How is the story focalized? Who presents it? What do they remember, know, ignore, or forget? How do they travel from place to place or moment to moment? 
 * Are there ghosts? If so, then how do they communicate with the present?
 * While reading, what must we assume or suspend? 
-* Does the narrative have a beginning, middle, and end? If so, then where are they? If not, then why? 
+* Does the narrative have a clear beginning, middle, and end? If so, then where are they? 
 * Is there resolution on the last page? How does that resolution, or lack thereof, affect your interpretation of the novel? 
 
-If you choose this option, then feel free to write 750 to 1000 words about the overall form of the novel and to also interpret a specific passage or two where the novel's narrative structure clearly influences how the story unfolds. Since you're writing an academic argument, you should probably include a thesis. An academic thesis should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to current research in the field. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. 
+If you choose this option, then feel free to write 750 to 1000 words about the overall narrative form of the novel and to also interpret a specific passage or two where the novel's narrative structure clearly influences how the story unfolds. Since you're writing an academic argument, you should probably include a thesis. An academic thesis should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to current research in the field. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. 
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
@@ -375,9 +376,10 @@ What is significant about how power operates in the novel?
 Write an academic argument in 750-1000 words (MLA format) about how power operates in one of the assigned novels and explain why the novel's approach to power is compelling or unique. As you write, consider describing the general characteristics of the novel (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
 
 Here are some questions to help you get started: 
+
 * Who has agency or mobility in the novel? In what situations? In relations with whom? 
 * How do racism, heteropatriarchy, colonialism, ableism, homophobia, xenophobia, transphobia, classism, fatphobia, capitalism, and/or sexism operate in the novel?
-* What do characters assume about each other? About the environment? About nonhuman animals in the novel?  
+* What do characters assume about each other? About the environment? About nonhuman animals in the novel?
 * Whose perspectives and which positions are treated as the default or norm? 
 * Who gets to speak, to whom, and when? Who remains (mostly) silent? 
 * Who is considered to be an expert, in which situations, and under what assumptions? 
@@ -394,24 +396,25 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 
 What is significant about the use of language(s) in the novel? 
 
-Write an academic argument in 750-1000 words (MLA format) about one of the assign novel's approach to language and explain why its approach is compelling or unique. As you write, consider describing the general characteristics of the novel (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
+Write an academic argument in 750-1000 words (MLA format) about one of the assigned novel's approaches to language and explain why its approach is compelling or unique. As you write, consider describing the general characteristics of the novel (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
 
 Here are some questions to help you get started: 
+
 * How would you describe the language of the novel? What adjectives would you use? 
 * Which metaphors and phrases are repeated throughout it?
 * How do characters speak to each other? To themselves? How many languages or dialects do they use? How do they translate or switch across languages? 
-* If there’s a narrator, then how would you describe their voice, style, and position? 
+* If there's a narrator, then how would you describe their voice, style, and position? 
 * How, if at all, does the novel combine or mix languages? 
-* When is the prose also poetic? Abstract? Gestural? Specific? 
+* When is the prose also poetic? Abstract? Gestural? Palpable? 
 * When does the language convey information? When is it ambiguous? What goes unsaid or unwritten? 
 * Does the novel create its own language? Its own words? If so, then how and why?
 * What is the social, cultural, or political function of language in the novel? How does it connect people? Separate them? 
-* When do characters miscommunicate, and to what effects on the fiction? 
+* When do characters miscommunicate, and to what effects on the fiction at hand? 
 * How does the novel sound when you read it aloud? 
-* How does the language represent or perform history? When is the writing a record or document of what happened? When isn't it, and why?  
+* How does the language represent or perform history? When is the writing a record or document of what happened? When isn't it, and why?
 * Does the language correspond with your everyday life? What must you translate or look up? To what effects on your interpretation? 
 
-If you choose this option, then feel free to write about the overall use of language(s) in the novel and to also interpret a specific passage or two where you consider the use of language to be especially significant. Since you're writing an academic argument, you should probably include a thesis. An academic thesis should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to current research in the field. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. 
+If you choose this option, then feel free to write 750-1000 words about the overall use of language(s) in the novel and to also interpret a specific passage or two where you consider the use of language to be especially significant. Since you're writing an academic argument, you should probably include a thesis. An academic thesis should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to current research in the field. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. 
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
@@ -430,20 +433,22 @@ Who is the novel's intended audience, and how was the novel received across venu
 In 500-750 words (MLA format), assess an assigned novel's reception and also identify and describe its intended audience(s). As you write, consider the details that matter for audience and reception: date of publication, publisher, awards, and the author's publication history, including fiction as well as editing and nonfiction. Also consider various venues for reception: everything from the CBC and *New York Times* to social media and Goodreads to journal articles in the MLA International Bibliography. When identifying intended audiences, please be as specific as possible.  
 
 Here are some questions to help you get started: 
+
 * When was the book published? By whom? 
 * Who did the original cover art? What was on the cover? 
-* Was the novel at hand the author's first book? Their last or most recent book? Somewhere in between? How similar is it to their other books? 
+* Was the novel the author's first book? Their last or most recent book? Somewhere in between? How similar is it to their other books? 
 * What awards, if any, did the book receive? 
 * How many editions now exist? 
-* Where was the book reviewed? Who reviewed it? Were the reviews positive? What did they focus on? What role did the author's reputation play in the reviews? How the reviews or venues biased? 
+* Where was the book reviewed? Who reviewed it? Were the reviews positive? What did they focus on? What role did the author's reputation play in the reviews? How were thes reviews or venues biased? 
 * How did reviews differ from one venue to the next? What do you make of these differences? 
 * How is the book rated by social cataloguing and commerce sites? What sort of comments do people leave about it? 
 * Is there any tension between the "popular" and "critical" reception? If so, then what do you make of it? 
-* How much scholarship has been written about the book? Where is the book popular? Who tends to identify with it?* Does the book have a fan culture or subculture? If so, describe it.  
-* How would you describe the book's intended audience? Who, exactly, are they?) Why does this audience matter when reviewing the book? (See if the book has a dedication and/or acknowledgments.
-* Did the book become something else, such as a movie or play? How well was the adaptation received? To what effects on the novel's reception?   
+* How much scholarship has been written about the book? Where is the book popular? Who tends to identify with it?
+* Does the book have a fan culture or subculture? If so, describe it.
+* How would you describe the book's intended audience? Who, exactly, are they? Why does this audience matter when reviewing the book? See if the book has a dedication and/or acknowledgments.
+* Did the book become something else, such as a movie or play? How well was the adaptation (or remake) received? To what effects on the novel's reception?   
 
-If you choose this option, then feel free to use 500-750 words to assess the overall reception of an assigned novel, with details drawn from a range of reviews, comments, and publications (both popular and academic) and attention given to the particulars of its intended audience(s). Since you’re assessing the reception of a novel and describing its intended audience, you don’t need to make an academic argument. (This is not a close reading assignment.) Feel free to write for a broad, non-expert audience: people who, generally speaking, are interested in contemporary fiction. However, your assessment should be clear and thorough, and your descriptions should be precise. You should draw upon at least *ten* different sources across news outlets (such as newspapers, websites, and radio), social media, blogs, and academic journals.   
+If you choose this option, then feel free to use 500-750 words to assess the overall reception of an assigned novel, with details drawn from a range of reviews, comments, and publications (both popular and academic) and attention given to the particulars of its intended audience(s). Since you’re assessing the reception of a novel and describing its intended audience, you don't need to make an academic argument. (This is not a close reading assignment.) Feel free to write for a broad, non-expert audience: people who, generally speaking, are interested in contemporary fiction. However, your assessment should be clear and thorough, and your descriptions should be precise. You should draw upon at least *ten* different sources across news outlets (such as newspapers, websites, and radio), social media, blogs, and academic journals.   
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
@@ -453,13 +458,14 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 
 What is the geographic setting of the novel, and why is that setting significant? 
 
-In 500-750 words (MLA format), describe one geographic setting of an assigned novel and explain why that setting is significant. Of note, this geographic setting should be an actual place that exists or once existed on Earth. As you write, consider the details that matter for the geography of fiction: names of countries and states/provinces, demographics, capital cities, urban and rural locations, histories of place, climate, landscape, (official) language(s), Indigenous and settler groups, and population numbers. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as records such as census data. While you may refer to passages in your assigned novel, the emphasis of this assignment should be on the particulars of an actual, geographic setting and its significance in the novel (or when interpreting the novel). 
+In 500-750 words (MLA format), describe one geographic setting of an assigned novel and explain why that setting is significant. Of note, this geographic setting should be an actual place that exists or once existed on Earth. As you write, consider the details that matter for the geography of the fiction at hand: names of countries and states / provinces, demographics, capital cities, urban and rural locations, histories of place, climate, landscape, (official) language(s), Indigenous and settler groups, and population numbers. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as records such as census data. While you may refer to passages in your assigned novel, the emphasis of this assignment should be on the particulars of an actual, geographic setting and its significance in the fiction (or when interpreting the fiction). 
 
 Here are some questions to help you get started: 
+
 * Where does the novel take place? 
 * Where do characters say they are from? Where are they going? Where do they feel like they belong? 
 * What language(s) do they speak? How is the language tied to a geographic location? 
-* How does the novel describe its settings? From whose perspective(s)? 
+* How does the novel describe its settings? From whose perspective(s)?
 * What values does the novel associate with land? With rural areas? With urban areas? 
 * How is history tied to people and places in the novel? 
 * How is nature described? How are art and culture described? Where are they located? 
@@ -481,17 +487,18 @@ When is an historical event mentioned in the novel, and why is that event signif
 In 500-750 words (MLA format), describe one historical event mentioned in an assigned novel and explain why that event is significant. Of note, this event should be an actual event that occurred on Earth. As you write, consider the details that matter for histories of events: names, participants, dates, locations, descriptions, documentation, controversies, memories, and days of remembrance. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as historical records. While you may refer to passages in your assigned novel, the emphasis of this assignment should be on the particulars of an actual, historical event and its significance in the novel (or when interpreting the novel). 
 
 Here are some questions to help you get started: 
+
 * What are the histories and events upon which your selected novel relies?
 * To which documents or records do characters refer? 
 * What events are remembered or mentioned often in the novel? 
 * How is the event coded? With what or whom is it associated? 
 * Which historical events do the characters attend or participate in? Which events do they study or research? 
-* Which events haunt the novel or its characters? 
+* Which events haunt the novel or its characters?
 * Which events are represented, revised, or illustrated by the novel? 
-* When does the novel read more like nonfiction than fiction? Which historical events are used as material for that nonfiction? 
-* Which events do we assume actually happened? Which events appear to be fabricated? 
-* How, if at all, does the novel address the land on which it is set? On which it was written? 
-* When do you trust the novel's account of history or reality? When don’t you? Why? 
+* When does the novel read more like nonfiction than fiction? Which historical events are used as material for that nonfiction?
+* Which events do we (as readers) assume actually happened? Which events appear to be fabricated?
+* How, if at all, does the novel address the land on which it is set? On which it was written?
+* When do you trust the novel's account of history or reality? When don't you? Or should you? Why? 
 * How would (or do) you draw boundaries between fiction and history in this novel? 
 
 If you choose this option, then feel free to use 500-750 words to describe one historical event mentioned in the novel, with details and even data drawn from a range of venues and publications. Since you're describing an event and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience: people who, generally speaking, are interested in contemporary fiction. When you address the significance of the event, you can focus on the particulars of that event instead of passages from your selected novel. (This is not a close reading assignment.) However, your description of an event should be precise, drawing upon at least *five* different reliable sources. 
@@ -500,7 +507,7 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 
 ### Prompt C   
 
-*Experiment*: This prompt emphasizes the integration of fiction into your everyday life. It involves some experimentation beyond the essay format. For it, you have three options: mimicry, podcast, and workshop. Please choose one.
+*Experiment*: This prompt emphasizes the integration of fiction into everyday life. It involves some experimentation beyond the essay format. For it, you have three options: mimicry, podcast, and workshop. Please choose one.
 
 Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response. 
 
@@ -510,29 +517,30 @@ Your response will constitute 25% of your final mark. We will use the [rubric](#
 
 What do we learn from mimicking the writing we read? 
 
-Please identify an event or everyday occurrence from this term (something, for instance, that just happened to you or something you do routinely) and write about 500 words about it in the style or voice of an assigned novel. Please also write about 300 words reflecting on what you learned about the novel (in particular) and fiction (in general) from this act of mimicry.
+Please identify an event or everyday occurrence from this term (something, for instance, that just happened to you or something you do routinely) and write roughly 500 words about it in the style or voice of an assigned novel. Please also write about 300 words reflecting on what you learned about the novel (in particular) and fiction (in general) from this act of mimicry.
 
 Here are some questions to help you get started: 
+
 * How would you describe the style or voice of the novel you're about to mimic? Where possible, pick precise adjectives to describe it. 
-* If the novel had (has?) a personality, then what would it be, or how would you describe it?  
-* Which passages do you find most compelling? Why? 
-* How long are the sentences? The paragraphs? 
+* If the novel had (has?) a personality, then what would it be, or how would you describe it?
+* Which passages do you find most compelling? Why?
+* How long are the sentences? The paragraphs?
 * When is the novel specific or detailed? When is it vague? Why? 
-* What kind of vocabulary is used? 
+* What kind of vocabulary is used?
 * How is dialogue written or expressed?
-* What tense is most common? 
-* What types of literary devices and figurative language are preferred? 
+* What tense is most common?
+* What types of literary devices and figurative language are preferred?
 * Do you notice any unique punctuation? 
 * Does the writing tend to "record" or "capture" what happened, or does it project its own world? Or . . . ?
 * When does the novel make you laugh? Why? 
 * When does the novel make you cry? Why? 
 * When does the novel bore you? Why? 
 * When can't you put the novel down? When do you put it down? Why? 
-* What positions, perspectives, and experiences are represented by the novel?
+* What positions, perspectives, and experiences are represented by or in the novel?
 * How is the novel narrated? 
 * How does it sound when you read it aloud? 
 * With which assigned novel do you most identify? Least identify? To what degree is identification tied to mimicry?
-* How can you mimic the writing sincerely, without irony, parody, or appropriation? What or who should you *not* mimic? 
+* How can you mimic the writing sincerely, without irony, parody, or appropriation? What or whom should you *not* mimic? 
 
 If you choose this option, then feel free to write a short, creative piece of mimicry (500 words) based on your own, recent experiences, together with a reflection (300 words) on what you learned from the process. Of course, the reflection may be informal, written in the first person, and steeped in your own perceptions of the writing experience as well as your own relation to the selected novel. However, it should be precise and anchored in detail, and it should demonstrate some self-awareness of the decisions you made and their (potential) effects. The style of a compelling act of mimicry should be difficult to discern from the style of the original text, but the content should grounded in (or represent) *your* everyday life. 
 
@@ -544,17 +552,18 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 
 What do we learn from talking about novels with an audience? 
 
-Please identify an assigned novel and create part (3 to 5 minutes) of a podcast episode that reviews the novel for a specific audience of your choice. The episode should be composed with a particular podcast (that already exists) in mind, and you should identify the podcast and provide its URL in writing. Alternatively, you can imagine a podcast or online publication you want to see (hear?) in the world. In that case, you should give it a name / title. Either way, your excerpt should be accompanied by a script or transcript consisting of 500-750 words. You should also avoid recommending the book to your listeners or rating it for them. (Your review should not be about consumers' purchasing decisions.) You should instead focus on which aspects of the novel make it important or relevant right now. 
+Please identify an assigned novel and create part (3 to 5 minutes) of a podcast episode that reviews the novel for a specific audience of your choice. The episode should be composed with a particular podcast (that already exists) in mind, and you should identify the podcast and provide its URL in writing. Alternatively, you can imagine a podcast or online publication you want to see (hear? watch?) in the world. In that case, you should give it a name / title. Either way, your excerpt should be accompanied by a script or transcript consisting of 500-750 words. You should also avoid recommending the book to your listeners or rating it for them. (Your review should not be about consumers' purchasing decisions.) You should instead focus on which aspects of the novel make it important or relevant right now. 
 
 Here are some questions to help you get started: 
+
 * What are some podcasts you enjoy? Why do you listen to them? How do they engage fiction and culture? If you were to write a review for them, then what would it sound like? What sort of content would be appropriate?
 * What sort of podcast do you want to see (hear?) in the world? How would it engage fiction and culture? If you were to write a review for it, then what would it sound like? What sort content would be appropriate? 
 * How does talking about a book differ from writing about it? How would your style, delivery, and audience change across modes?
 * What makes a good book review? When do you consult them? Why do others consult them? Why listen to one instead of reading it? 
-* In a review, how do you balance attention to the particulars of a novel with your general impressions of it? 
-* Who is the intended audience for your podcast? What would they expect from a review? Where and how would they listen to you? With headphones or ear buds? In a car? At home? 
+* In a review, how do you balance attention to the particulars of a novel with your general impressions of it?
+* Who is the intended audience for your podcast? What would they expect from a review? Where and how would they listen to you? With headphones or ear buds? In a car? At home?
 * If you read a passage from your novel aloud, then what does it sound like? Will you read passages aloud in your podcast? 
-* Have you heard the author of your novel read aloud? If so, then what do they sound like? How could you include their voice in your podcast? 
+* Have you heard the author of your novel read aloud? If so, then what do they sound like? How could you include their voice in your podcast?
 * What other sounds may accompany your voice and review? 
 
 If you choose this option, then feel free to compose a review (3-5 minutes) of your selected novel and submit it as an MP3 or WAV file. We will assess your podcast for its content, not its production. Please do not spend time on the particulars of either recording (including acoustics) or post-production (including editing and effects). Focus on content. You should submit your WAV or MP3 file with either a script (500-750 words) written prior to the podcast (recommended) or a transcript (500-750 words) produced from it. For radio and podcasts, speaking 150 words per minute is the average. With your script or transcript, please provide the title and URL for the podcast you have in mind or the title of the podcast you're imagining / creating.
@@ -567,27 +576,28 @@ If you would prefer to approach this option via video, then feel free. MP4, MOV,
 
 What do we learn from workshopping or teaching novels? 
 
-Please identify an assigned novel and write a plan for workshopping it with a specific audience of your choice (other undergraduate students, Grade 12 students, or club / organization at UVic, for instance). The plan should be 500-750 words for a workshop lasting 30-45 minutes. It can follow whatever format you prefer, from an outline to a prompt to slides to a comic / wireframe to something more experimental. Its goals, however, should be clear and also achievable in 30-45 minutes. (Consider having only two or three goals.) It should also focus on a specific aspect of the novel. (You can't do much in only 30-45 minutes.) Assume that all workshop participants have read the novel at hand. 
+Please identify an assigned novel and write a plan for workshopping it with a specific audience of your choice (other undergraduate students, Grade 12 students, or a club / organization at UVic, for instance). Be sure to identify the audience in your plan, which should be 500-750 words for a workshop lasting 30-45 minutes. It can follow whatever format you prefer, from an outline to a prompt to slides to a comic / wireframe to something more experimental. Its goals, however, should be clear and also achievable in 30-45 minutes. (Consider having only two or three goals.) It should also focus on a specific aspect of the novel. (You can't do much in only 30-45 minutes.) Assume that all workshop participants have read the novel at hand. (One can dream?)
 
 Here are some questions to help you get started: 
+
 * What about the novel do you want other people to know about? Or to focus on? What sticks out to you as particularly interesting? 
 * How would you teach this novel or an aspect of it? 
 * Who is your audience, what do they know, what do they want to learn, and what do they care about? 
 * What do you enjoy doing, and how might that translate into this workshop? How might you perform or enact what you enjoy or care about in this context? 
 * What about the novel needs to be, or should be, discussed right now? 
-* How would you share the goals of the workshop with your audience? Would you state them early and up front? Allow them to unfold more organically? Or . . . ? 
+* How would you share the goals of the workshop with your audience? Would you state them early and up front? Allow the goals to unfold more organically? Or . . . ? 
 * What approach is appropriate for the situation and context? How would you describe yourself as a facilitator of the workshop? What would be your style, persona, and role? 
 * How would you keep participants engaged and invested?
 * Would workshop participants collaborate? Would they produce anything together or individually by the end of the workshop? Or would you focus more on the moment (talking, sharing, being present)? 
-* Would the workshop unfold in person / in situ? Or would it be conducted remotely? Could it work across both settings? Where, in short, would it occur? Consider the space of place.  
-* Which media are best for your plan and your approach? What are you most comfortable with? Would the workshop involve screens? Paper? Video? Audio? Writing? Drawing? Go with whatever appeals most to you and seems appropriate for the novel at hand. 
+* Would the workshop unfold in person / in situ? Or would it be conducted remotely? Could it work across both settings? Where, in short, would it occur? Consider the space of place.
+* Which media are best for your plan and your approach? What are you most comfortable with? Would the workshop involve screens? Paper? Video? Audio? Writing? Drawing? Go with whatever appeals most to you and seems appropriate for the context, plan, goals, and novel at hand. 
 * Try enacting or role-playing your workshop, even if alone. What did you learn from this experiment? 
 
 If you choose this option, then feel free to compose a workshop plan (500-750 words) for a 30- to 45-minute workshop about your selected novel and submit it as a PDF, DOCX, RTF, PPTX, GSLIDES, JPG, PNG, MOV, AVI, MP4, MP3, and/or WAV file. We will assess your workshop plan for its content, not its production. If you use video, audio, slides, or the like, please do not spend time on the particulars of recording (including acoustics), design (including layout and graphics), or post-production (including editing and effects). Focus on content. You may submit your plan with whatever other workshop materials you'd use or like to use.
 
 ### Prompt D 
 
-Prompt D will have one option and will be published here and on the course Brightspace in February or early March. A response to it will be due by April 19th. It will engage the dynamics of the course as it unfolds in January and February and address issues and questions that emerge during our regular meetings on Monday and Wednesday. Thank you for your patience.  
+Prompt D will have one option and will be published here and on the course Brightspace in February or early March. A response to it will be due by April 19th. It will engage the dynamics of the course as it unfolds in January and February and also address issues and questions that emerge during our regular meetings on Monday and Wednesday. Thank you for your patience.  
 
 # Rubric 
 

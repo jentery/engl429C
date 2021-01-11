@@ -585,9 +585,9 @@ Here are some questions to help you get started:
 
 If you choose this option, then feel free to compose a workshop plan (500-750 words) for a 30- to 45-minute workshop about your selected novel and submit it as a PDF, DOCX, RTF, PPTX, GSLIDES, JPG, PNG, MOV, AVI, MP4, MP3, and/or WAV file. We will assess your workshop plan for its content, not its production. If you use video, audio, slides, or the like, please do not spend time on the particulars of recording (including acoustics), design (including layout and graphics), or post-production (including editing and effects). Focus on content. You may submit your plan with whatever other workshop materials you'd use or like to use.
 
-### Prompt 4 
+### Prompt D 
 
-Prompt 4 will have one option and will be published here and on the course Brightspace in February or early March. A response to it will be due by April 19th. It will engage the dynamics of the course as it unfolds in January and February and address issues and questions that emerge during our regular meetings on Monday and Wednesday. Thank you for your patience.  
+Prompt D will have one option and will be published here and on the course Brightspace in February or early March. A response to it will be due by April 19th. It will engage the dynamics of the course as it unfolds in January and February and address issues and questions that emerge during our regular meetings on Monday and Wednesday. Thank you for your patience.  
 
 # Rubric 
 

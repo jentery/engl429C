@@ -344,6 +344,8 @@ Here are the four prompts for this course. Please note that Prompts A, B, C each
 
 Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response. 
 
+***
+
 *Prompt A, Option 1: Narrative* 
 
 What is significant about the novel's narrative? 
@@ -364,15 +366,17 @@ If you choose this option, then feel free to write 750 to 1000 words about the o
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
+***
+
 *Prompt A, Option 2: Power*  
 
-What is significant about how power operates in the text? 
+What is significant about how power operates in the novel? 
 
-Write an academic argument in 750-1000 words (MLA format) about how power operates in one of the assigned novels and explain why the novel's approach to power is compelling or unique. As you write, consider describing the general characteristics of the text (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
+Write an academic argument in 750-1000 words (MLA format) about how power operates in one of the assigned novels and explain why the novel's approach to power is compelling or unique. As you write, consider describing the general characteristics of the novel (its plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
 
 Here are some questions to help you get started: 
 * Who has agency or mobility in the novel? In what situations? In relations with whom? 
-* How do racism, heteropatriarchy, colonialism, ableism, homophobia, xenophobia, transphobia, classism, fatphobia, capitalism, and/or sexism operate in the text?
+* How do racism, heteropatriarchy, colonialism, ableism, homophobia, xenophobia, transphobia, classism, fatphobia, capitalism, and/or sexism operate in the novel?
 * What do characters assume about each other? About the environment? About nonhuman animals in the novel?  
 * Whose perspectives and which positions are treated as the default or norm? 
 * Who gets to speak, to whom, and when? Who remains (mostly) silent? 
@@ -383,6 +387,8 @@ Here are some questions to help you get started:
 If you choose this option, then feel free to write 750-1000 words about how power operates in the novel and to also interpret a specific passage or two where power clearly influences how the fiction unfolds. Since you're writing an academic argument, you should probably include a thesis. An academic thesis should be contestable (people should be able to disagree with it), grounded in detail (evidence-based), interpretive (not merely descriptive), and relevant to current research in the field. A convincing argument answers the "so what?" (or "why does this matter?") question common in literary and cultural criticism, and it sparks discussion rather than foreclosing it. 
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
+
+***
 
 *Prompt A, Option 3: Language*
 
@@ -399,7 +405,7 @@ Here are some questions to help you get started:
 * When is the prose also poetic? Abstract? Gestural? Specific? 
 * When does the language convey information? When is it ambiguous? What goes unsaid or unwritten? 
 * Does the novel create its own language? Its own words? If so, then how and why?
-* What is the social, cultural, or political function of language in the text? How does it connect people? Separate them? 
+* What is the social, cultural, or political function of language in the novel? How does it connect people? Separate them? 
 * When do characters miscommunicate, and to what effects on the fiction? 
 * How does the novel sound when you read it aloud? 
 * How does the language represent or perform history? When is the writing a record or document of what happened? When isn't it, and why?  
@@ -414,6 +420,8 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 *Contextualization*: This prompt focuses on the contexts that shape interpretation. It requires some reading beyond the assigned novels. For it, you have three options: intended audience, geographic setting, and a past event. Please choose one.
 
 Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response.  
+
+***
 
 *Prompt B, Option 1: Intended Audience and Reception* 
 
@@ -439,6 +447,8 @@ If you choose this option, then feel free to use 500-750 words to assess the ove
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
+***
+
 *Prompt B, Option 2: Geographic Setting* 
 
 What is the geographic setting of the novel, and why is that setting significant? 
@@ -458,9 +468,11 @@ Here are some questions to help you get started:
 * How do questions of geography correspond with the aesthetics or politics of the novel? What social or cultural issues does geography address? 
 * Have you been to places referenced in the novel? If so, then to what effects on your interpretation of it?   
 
-If you choose this option, then feel free to use 500-750 words to describe one particular geographic setting in the novel, with details and even data drawn from a range of venues and publications. Since you are describing the setting of a novel and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience: people who, generally speaking, are interested in contemporary fiction. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected text. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least *five* different reliable sources.   
+If you choose this option, then feel free to use 500-750 words to describe one particular geographic setting in the novel, with details and even data drawn from a range of venues and publications. Since you are describing the setting of a novel and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience: people who, generally speaking, are interested in contemporary fiction. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected novel. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least *five* different reliable sources.   
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
+
+***
 
 *Prompt B, Option 3: A Past Event*
 
@@ -492,6 +504,8 @@ Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to incl
 
 Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response. 
 
+***
+
 *Prompt C, Option 1: Mimicry* 
 
 What do we learn from mimicking the writing we read? 
@@ -500,7 +514,7 @@ Please identify an event or everyday occurrence from this term (something, for i
 
 Here are some questions to help you get started: 
 * How would you describe the style or voice of the novel you're about to mimic? Where possible, pick precise adjectives to describe it. 
-* If the text had a personality, then what would it be, or how would you describe it?  
+* If the novel had (has?) a personality, then what would it be, or how would you describe it?  
 * Which passages do you find most compelling? Why? 
 * How long are the sentences? The paragraphs? 
 * When is the novel specific or detailed? When is it vague? Why? 
@@ -524,6 +538,8 @@ If you choose this option, then feel free to write a short, creative piece of mi
 
 Please submit your response as a DOCX, RTF, HTML, or PDF file. Feel free to include images (where applicable) as figures in the document. 
 
+***
+
 *Prompt C, Option 2: Podcast (Audio or Video)* 
 
 What do we learn from talking about novels with an audience? 
@@ -544,6 +560,8 @@ Here are some questions to help you get started:
 If you choose this option, then feel free to compose a review (3-5 minutes) of your selected novel and submit it as an MP3 or WAV file. We will assess your podcast for its content, not its production. Please do not spend time on the particulars of either recording (including acoustics) or post-production (including editing and effects). Focus on content. You should submit your WAV or MP3 file with either a script (500-750 words) written prior to the podcast (recommended) or a transcript (500-750 words) produced from it. For radio and podcasts, speaking 150 words per minute is the average. With your script or transcript, please provide the title and URL for the podcast you have in mind or the title of the podcast you're imagining / creating.
 
 If you would prefer to approach this option via video, then feel free. MP4, MOV, and AVI formats are fine. 
+
+***
 
 *Prompt C, Option 3: A Workshop* 
 

@@ -169,7 +169,7 @@ Content warnings for the book: ableism, body shaming, domestic abuse, death, tor
 
 This week's reading should consume no more than *one hour* of your time. This week's writing should consume no more than *six hours* of your time. 
 
-By Monday, March 1st at 2:30pm, please finish *Geek Love* (through page 348).
+By Monday, March 1st at 2:30pm, please finish *Geek Love* (through page 348). Take notes as you read. 
 
 By Wednesday, March 3rd at 2:30pm, please submit via Brightspace (link coming soon) your second response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment. 
 

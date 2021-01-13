@@ -147,7 +147,7 @@ Content warnings for the book: racism, racial slurs, slavery, torture, sexism, s
 
 This week's writing should consume no more than *six hours* of your time. 
 
-By Monday, February 8th at 2:30pm, please submit via Brightspace (link coming soon) your first response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment.   
+By Monday, February 8th at 2:30pm, please [submit via Brightspace](https://bright.uvic.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?ou=53306&db=45620) your first response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment.   
 
 By Wednesday, February 10th at 2:30pm, please review your notes for *The House on Mango Street* and *Beloved*. Please also select a [prompt](#prompts) to which you'll respond for the second assignment, which is due by  Wednesday, March 3rd. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment.  
 
@@ -171,7 +171,7 @@ This week's reading should consume no more than *one hour* of your time. This we
 
 By Monday, March 1st at 2:30pm, please finish *Geek Love* (through page 348). Take notes as you read. 
 
-By Wednesday, March 3rd at 2:30pm, please submit via Brightspace (link coming soon) your second response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment. 
+By Wednesday, March 3rd at 2:30pm, please [submit via Brightspace](https://bright.uvic.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=45634&grpid=0&isprv=&bp=0&ou=53306) your second response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment. 
 
 Content warnings for the book: ableism, body shaming, domestic abuse, death, torture, physical violence, sexual assault, death of a child, sexism, racism, identity jokes, vulgarity 
 
@@ -205,7 +205,7 @@ This week's writing should consume no more than *six hours* of your time.
 
 For our meeting on Monday, March 22nd at 2:30pm, please come prepared with the title, author(s), and publication date of *one* work of American fiction in a format *other than the novel* (so . . . comics, graphic novels, short fiction, interactive fiction, and even games) you feel would contribute meaningfully to the conversations we're having about contemporary American fiction this term. How, under what assumptions, and to what effects might we expand our discussions of contemporary American fiction beyond the novel? Write a sentence or two describing the work you selected and be prepared to share it as well as the title, author, and publication date with us. 
 
-By Wednesday, March 24th at 2:30pm, please submit via Brightspace (link coming soon) your third response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment. 
+By Wednesday, March 24th at 2:30pm, please [submit via Brightspace](https://bright.uvic.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=45752&grpid=0&isprv=&bp=0&ou=53306) your third response to a [prompt](#prompts): Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). You should respond to each prompt *only once* and select *one* of three options provided. You can respond to Prompts A, B, and C in any order you wish. Please leave Prompt D for the final / fourth assignment. 
 
 ## Week 12 (Mar. 29 and 31): *Homegoing*  
 
@@ -225,7 +225,7 @@ This week's reading should consume no more than *three hours* of your time. This
 
 By Monday, April 5th at 2:30pm, please finish *Homegoing* (through page 300). Take notes as you read. 
 
-By Wednesday, April 7th at 2:30pm, please submit via Brightspace (link coming soon) your revised response to a previous prompt: Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). This assignment is *optional*. If you decide to revise, then we recommend reviewing the prompt as well as our feedback on your initial response. 
+By Wednesday, April 7th at 2:30pm, please [submit via Brightspace](https://bright.uvic.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=45766&grpid=0&isprv=&bp=0&ou=53306) your revised response to a previous prompt: Prompt [A](#prompt-a), [B](#prompt-b), or [C](#prompt-c). This assignment is *optional*. If you decide to revise, then we recommend reviewing the prompt as well as our feedback on your initial response. 
 
 Note that *Homegoing*'s chapters are not numbered and function more like stories or vignettes. 
 
@@ -241,7 +241,7 @@ By Monday, April 12th at 2:30pm, please review your notes for each of the five n
 
 This week's writing should consume no more than *seven hours* of your time. 
 
-By Monday, April 19th at 5pm, please submit via Brightspace (link coming soon) your response to [Prompt D](#prompt-d). Extensions until Thursday, April 22nd at 5pm will be available upon request by email.
+By Monday, April 19th at 5pm, please [submit via Brightspace](https://bright.uvic.ca/d2l/lms/dropbox/user/folder_submit_files.d2l?db=45791&grpid=0&isprv=&bp=0&ou=53306) your response to [Prompt D](#prompt-d). Extensions until Thursday, April 22nd at 5pm will be available upon request by email.
 
 Thank you! We hope you enjoy your summer. 
 

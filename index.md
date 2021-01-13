@@ -233,7 +233,7 @@ Content warnings for the book: slavery, racism, racial slurs, sexual assault, to
 
 ## Week 14 (Apr. 12): Review 
 
-There's no assigned reading or writing this week, but we recommend starting on the [fourth assignment](#prompt-d), if you've not already. 
+There's no assigned reading or writing this week, but we recommend starting on the [fourth assignment](#prompt-d) (Prompt D), if you've not already. 
 
 By Monday, April 12th at 2:30pm, please review your notes for each of the five novels we read this term. We'll also complete course experience surveys on the 12th.   
 

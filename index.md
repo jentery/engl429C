@@ -261,7 +261,7 @@ But we will only use Brightspace for the following, most of which may arrive as 
 
 1. Class announcements (one each week).
 2. Circulating video recordings of Zoom meetings (as part of the weekly class announcement).
-3. Accessing your responses to the four [prompts](#prompts). Links to submit those four assignments are available in the [schedule](#schedule). This means you'll need to log into Brightspace at least four times (once per submission) this term.
+3. Accessing your responses to the four [prompts](#prompts). This means you’ll need to log into Brightspace at least four times (once per submission) this term.
 4. Returning feedback and your marks.
 
 If you cannot access the course Brightspace, then please let us know. 

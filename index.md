@@ -57,7 +57,7 @@ We are asking you to respond to four [prompts](#prompts) this term, and we'll in
 
 There are no quizzes, exams, discussion forums, or student presentations in this course. There is no participation mark, either. Jentery will mark your responses to the prompts and provide feedback on your work. 
 
-All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. (See submission links in the [schedule](#schedule).) We cannot accept submissions by email. Thank you for understanding.  
+All the [prompts](#prompts) are included in this outline, and due dates are provided in the [schedule](#schedule). Please submit each of your responses via Brightspace. We cannot accept submissions by email. Thank you for understanding.  
 
 Please note that three of the four [prompts](#prompts) afford three ways to respond to them, and not all responses are academic essays. You should pick *one* of the three options in the prompt. Also note that you may respond to the first three prompts---Prompts [A](#prompt-a), [B](#prompt-b), and [C](#prompt-c)---in whatever order you wish, but you should respond to each of these prompts only once. Prompt [D](#prompt-d) is attended as the fourth assignment, due at the end of term.   
 

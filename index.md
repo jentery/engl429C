@@ -597,7 +597,31 @@ If you choose this option, then feel free to compose a workshop plan (500-750 wo
 
 ### Prompt D 
 
-Prompt D will have one option and will be published here and on the course Brightspace in February or early March. A response to it will be due by April 19th. It will engage the dynamics of the course as it unfolds in January and February and also address issues and questions that emerge during our regular meetings on Monday and Wednesday. Thank you for your patience.  
+*Choice*: This prompt emphasizes choice, or what you wish to do at the end of the term. For it, you have three options: pick a previous option (from Prompts A-C), write your own prompt, or write us a letter. 
+
+Your response will constitute 25% of your final mark. We will use the [rubric](#rubric) and UVic's [official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to assess your response. 
+
+Your response is due by April 19th at 5pm. Extensions until Thursday, April 22nd at 5pm will be available upon request by email.
+
+***
+
+*Prompt D, Option 1: A Previous Option* 
+
+Select one option above, from Prompt A, B, or C, which you've *not* addressed this term. Now respond to it by interpreting a novel you've *not* engaged in a previous prompt. 
+
+***
+
+*Prompt D, Option 2: DIY*
+
+Write your own prompt, email us a draft for review and approval, and then respond to it. The prompt should follow the format and style of the prompts above; however, you don't need to include a list of questions for yourself. 
+
+***
+
+*Prompt D, Option 3: A Letter*
+
+Prompt coming soon.
+
+***
 
 # Rubric 
 

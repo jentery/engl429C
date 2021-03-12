@@ -619,7 +619,27 @@ Write your own prompt, email us a draft for review and approval, and then respon
 
 *Prompt D, Option 3: A Letter*
 
-Prompt coming soon.
+What's an important theme in this course, and what have you learned from it? 
+
+Having conversations with other people outside your core bubble may be somewhat rare while learning online and distancing during a pandemic. Here, we're hoping to keep things social by asking you to write us (Faith and Jentery) a letter. We imagine most other letters you write are not about novels. But perhaps a novel from this course fascinates you enough to spark an exception to the rule.
+
+In the letter, please identify an important theme in this course and tell us what you learned from it. For details, and to keep us all on the same page, please draw examples from one novel we've read. (It should be a novel you've not engaged while responding to another prompt.) Perhaps the theme you've identified unfolds only in the novel at hand, or maybe it's a theme at play across multiple novels on the syllabus. Your call. But if it's the latter, you are more than welcome to mention those other novels. You may also consider this final assignment to be an opportunity to reflect on what you've done (or thought about) this term and to chat with us about it. A good letter is conversational. 
+
+Here are some questions to help you get started:
+
+* What have we discussed or addressed often this term? Which themes were common? What bubbled to the surface? 
+* What stuck with you this term? What do you continue to think about? What's important or relevant? 
+* What are your own interests? And how have they overlapped with a novel or theme in this course? 
+* How has a novel in this course shaped your way of thinking or being in the world? 
+* How has a novel in this course influenced how you understand or perceive a particular issue or event? 
+* If you were to re-read a novel in this course, then which one would it be? 
+* What sorts of themes matter most to you? Political ones? Social ones? Cultural ones? Aesthetic ones? 
+* What would you like to talk with us about? What sort of conversations do you feel are necessary or timely? 
+* What makes a theme in a novel (or across multiple novels) interesting, unique, or important? What does an interesting theme do well? 
+
+Your letter should be 750-1000 words, follow the conventions of a letter (including a date, salutation, body, closing, and your name or signature; maybe even a post-script), and assume we, too, have read all the novels in this course (that means we won't need much context or description). Your letter should be less formal than an academic essay yet more formal than a message to a friend or family member. Feel free to address us by our first names, use second person (“you”), refer to class discussions, and ask us questions whenever you're curious or unsure about something. Our pronouns are she / her (Faith) and he / him (Jentery). For some fun, let's imagine you're sending your letter to us by post. (No stamp required.)
+
+Please submit your response as a DOCX, RTF, HTML, or PDF file. 
 
 ***
 
